@@ -77,13 +77,13 @@ Now uncheck the above Enable WiFi access point option and click on the save and 
 The frequency band is allocated now. Now we need to get the Gateway ID. To get that go to the following option as LoRaWAN Semtech UDP.
 15.Copy the Gateway ID as this will be required later. Then select the LoRaWAN Server as The Things Network . Select the server address  https://iot.saveetha.in
 
-<img height=20% width=40% src="https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/36288975/2b71b396-8d51-4fd2-aec0-50db96a01f30"
+<img height=20% width=40% src="https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/36288975/2b71b396-8d51-4fd2-aec0-50db96a01f30">
 17.Click on save & apply. So finally the setting up of LPS8 Dragino LoRaWAN Gateway completes.
 
 
 
 ## OUTPUT 
-<img height=20% width=40% src="https://github.com/BharathCSEIOT/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/122793480/8ee98e55-e846-411e-909f-916c55937f20">
+<img  height =20% width=40% src="https://github.com/BharathCSEIOT/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/122793480/8ee98e55-e846-411e-909f-916c55937f20">
 
 
 
